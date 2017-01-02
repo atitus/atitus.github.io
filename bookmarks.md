@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bookmarks
+title: Favorites
 permalink: /bookmarks/
 ---
 
