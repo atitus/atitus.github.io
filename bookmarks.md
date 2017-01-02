@@ -4,8 +4,6 @@ title: Favorites
 permalink: /bookmarks/
 ---
 
-My favorite sites.
-
 ### M&I and VPython
 
 - [Matter & Interactions](http://matterandinteractions.org/)
